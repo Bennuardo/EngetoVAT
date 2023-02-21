@@ -1,0 +1,16 @@
+Hungary (HU): 27.0 % (18.0%)
+Denmark (DK): 25.0 % (25.0%)
+Croatia (HR): 25.0 % (13.0%)
+Sweden (SE): 25.0 % (12.0%)
+Greece (GR): 24.0 % (13.0%)
+Finland (FI): 24.0 % (14.0%)
+Poland (PL): 23.0 % (8.0%)
+Italy (IT): 22.0 % (10.0%)
+Slovenia (SI): 22.0 % (9.5%)
+Czech Republic (CZ): 21.0 % (15.0%)
+Spain (ES): 21.0 % (10.0%)
+Latvia (LV): 21.0 % (12.0%)
+Lithuania (LT): 21.0 % (9.0%)
+Netherlands (NL): 21.0 % (6.0%)
+=============================================================================== 
+Sazba VAT 20.0 % nebo nižší nebo používají speciální sazbu: IE, PT, BE, AT, BG, EE, FR, RO, SK, GB, CY, DE, MT, LU, 
